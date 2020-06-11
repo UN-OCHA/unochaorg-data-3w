@@ -83,14 +83,6 @@ nav i, nav [class^="mdi-"], nav [class*="mdi-"], nav i.material-icons {
   margin: 10px 0;
   overflow: hidden;
 }
-.overview .responsive-object { padding-bottom: 374%;}
-.civ-mil .responsive-object { padding-bottom: 72%;}
-.vulnerability .responsive-object { padding-bottom: 285%;}
-.planning .responsive-object { padding-bottom: 325%;}
-.impact-crisis .responsive-object { padding-bottom: 403%;}
-.presence-response .responsive-object { padding-bottom: 150%;}
-.rcce .responsive-object { padding-bottom: 150%;}
-.restrictions .responsive-object { padding-bottom: 226%;}
-.hum-impact .responsive-object { padding-bottom: 168%;}
-.country .responsive-object { padding-bottom: 205%;}
+.overview .responsive-object { padding-bottom: 100%;}
+
 .footer-hide {background-color: #fff; width:100%; height: 40px; position: relative; bottom: 0;}
