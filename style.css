@@ -18,7 +18,7 @@
 .responsive-object {
   position: relative;
   padding-bottom: calc(100% + 2rem);
-  height: 1800px;
+  height: 1650px;
   overflow: hidden;
 }
 
